@@ -2,11 +2,14 @@
 
 Homepage: http://uwseds.github.io/homework.html 
 
-Homework #  | Report
+Homework #  | Solution
 ------------- | -------------
-1  | Content Cell
+1  | [Data basics](https://github.com/gshguru/uwseds/blob/master/Homework1/analysis/Homework1%20-%20Analysis.ipynb)
 2  | TBA
-2  | TBA
-2  | TBA
-2  | TBA
+3  | TBA
+4  | TBA
+5  | TBA
+6  | TBA
+7  | TBA
+8  | TBA
 
