@@ -1,5 +1,12 @@
-# uwseds
-uwseds homework notes
+# CSE 599 B1 - Sofware Engineering for Data Scientists
 
-DataSource: https://data.seattle.gov/Transportation/Fremont-Bridge-Hourly-Bicycle-Counts-by-Month-Octo/65db-xm6k 
+Homepage: http://uwseds.github.io/homework.html 
+
+Homework #  | Report
+------------- | -------------
+1  | Content Cell
+2  | TBA
+2  | TBA
+2  | TBA
+2  | TBA
 
