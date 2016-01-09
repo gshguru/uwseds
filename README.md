@@ -1,6 +1,11 @@
 # CSE 599 B1 - Sofware Engineering for Data Scientists
 
-Homepage: http://uwseds.github.io/homework.html 
+##Links
+
+- [Course Homepage](http://uwseds.github.io)
+- [Homeworks](http://uwseds.github.io/homework.html)
+
+##Solutions
 
 Homework #  | Solution
 ------------- | -------------
